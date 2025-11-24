@@ -6,7 +6,6 @@ The analysis process involves gathering data from a Excel file, data cleaning (m
 and Plotly. The information obtained from this project aims to identify high-performance states, seasonal trends, and revenue growth opportunities, simulating a real-world business intelligence task.
 
 # Data
-Data
 The data source is a file named Regional Sales Dataset.xlsx. The raw data is in the spreadsheet, and it is organized as follows:
 
 **Sales Orders:** Transactional data (Order Date, Quantity, Channel, etc.).
